@@ -9,7 +9,17 @@ h1{
     height: 75px;
     width: 75px;
     margin-top: 20px;
+    
 }
 #amelioration1{
     margin-top: 20px;
 }
+button{
+    background-color: rgb(170, 170, 170);
+    border-color: goldenrod;
+    margin: 5px;
+    border-style: solid;
+}
+
+
+/* background-color: rgb(255, 255, 240); */
